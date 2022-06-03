@@ -2,8 +2,8 @@
 ***
 ## Contacts
 ***
-1. Discord: vrad7765#9258 1
-2. Telegram: @Ustosik 2
+1. Discord: vrad7765#9258 
+2. Telegram: @Ustosik 
 ***
 ##About Myself
 ***
