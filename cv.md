@@ -16,7 +16,7 @@ By the specifics of my work, I am a system administrator. I understand that ther
 
 ## Example
  
-
+~~~
 let a=prompt ('Какое официальное название JS','ECMAScript');
 if(a=='EcmaScript')
     { 
@@ -26,6 +26,7 @@ else
     { 
     alert (' You don't know? ');
     }
+~~~
     
 ## Experience
 
@@ -35,8 +36,9 @@ Work with network and server equipment, virtualization.
 
     Faculty of Communications and Automated Control Systems of the Military Academy of the Republic of Belarus.
     Cisco Academy (CCNA).
+    
 ## My English
 
-A1 . A base level.
+    A1 . A base level.
 
 
