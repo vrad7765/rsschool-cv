@@ -1,1 +1,53 @@
-# rs
+body {
+    background: linear-gradient(90deg, transparent 30%, rgba(124, 226, 7, 0.2) 60%, rgba(3, 88, 3, 0.2));
+    
+      }
+
+h3 {
+    color: rgb(7, 6, 6);
+    text-align: left;
+    font-size: 24px;
+    font : bold italic 22px Times New Roman, serif;
+font : bold italic 22px Arial, sans-serif;
+font : 22pt/10pt Courier New, monospace;
+font : bold italic 110% Parkavenue, cursive;
+font : normal small-caps 22px/22px Impact, fantasy;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-justify: auto;
+}
+.social-icons .social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    color: blue;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+  }
+ 
+ul, li {
+    font-family: 'Calibri';
+    font-size: 20px; 
+}
+code {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+.box {
+    border: 5px solid rgb(146, 148, 136);
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+  }
+  
+  .alternate {
+    box-sizing: border-box;
+  }
