@@ -1,8 +1,16 @@
 body {
-    background: linear-gradient(90deg, transparent 30%, rgba(124, 226, 7, 0.2) 60%, rgba(3, 88, 3, 0.2));
+    background-image: url(https://funart.pro/uploads/posts/2021-04/1618477336_29-funart_pro-p-oboi-fon-mutnii-fon-29.jpg);
     
       }
-
+h2 {
+  text-align: left;
+    font-size: 24px;
+    font : bold italic 22px Times New Roman, serif;
+font : bold italic 22px Arial, sans-serif;
+font : 22pt/10pt Courier New, monospace;
+font : bold italic 110% Parkavenue, cursive;
+font : normal small-caps 22px/22px DejaVu Sans Mono, monospace;
+}
 h3 {
     color: rgb(7, 6, 6);
     text-align: left;
@@ -11,32 +19,131 @@ h3 {
 font : bold italic 22px Arial, sans-serif;
 font : 22pt/10pt Courier New, monospace;
 font : bold italic 110% Parkavenue, cursive;
-font : normal small-caps 22px/22px Impact, fantasy;
+font : normal small-caps 22px/22px Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     text-justify: auto;
+    color: rgb(15, 15, 15);
 }
-.social-icons .social-icon {
-    display: flex;
+.social-icons .social-icons{
+    display:list-item;
     align-items: center;
     justify-content: center;
-    height: 3.5rem;
-    width: 3.5rem;
-    color: blue;
-    border-radius: 100%;
-    font-size: 1.5rem;
-    margin-right: 1.5rem;
+    height: 10rem;
+    width: 10rem;
+    color: rgb(211, 129, 22);
+  }
+  .icons {
+  vertical-align: middle;
+  color:orangered;
+  height: 40px;
+  width: 40px;
   }
  
-ul, li {
-    font-family: 'Calibri';
+.educ {
+  font-family: 'Times New Roman', Times, serif;
     font-size: 20px; 
 }
 code {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 }
+.box {
+    border: 5px solid rgb(146, 148, 136);
+    background-color: lightgray;
+    padding: 40px;
+    margin: 40px;
+    width: 300px;
+    height: 150px;
+  }
+  
+  .alternate {
+    box-sizing: border-box;
+  }
 
+  .header {
+    padding: 10px;
+  color: rgb(12, 11, 11);
+  background-color: rgb(121, 112, 112);
+  }
+  .footer {
+    padding: 20px;
+  color: red;
+  background-color: rgb(71, 67, 67);
+  }
+  .avatar {
+    vertical-align:middle;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    
+}
+.fio {
+  color: rgba(17, 15, 12, 0.965);
+    text-align: left;
+    font-size: 24px;
+    font : bold italic 22px Times New Roman, serif;
+font : bold italic 22px Arial, sans-serif;
+font : 22pt/22pt Courier New, monospace;
+font : bold italic 110% Parkavenue, cursive;
+font : normal small-caps 22px/22px Marker Felt, fantasy;
+}
+.fio1 {
+  color: rgb(7, 6, 6);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-justify: auto;
+    font:normal small-caps 18px/18px Marker Felt, fantasy ;
+}
+.inform {
+  margin: 5px;
+  padding: 10px;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626145514_29-kartinkin-com-p-belo-serii-fon-krasivo-29.jpg) ;
+    background-size: cover;
+}
+.fon {
+  border: rgb(190, 238, 214) 4px solid;
+  margin: 5px;
+    padding: 10px;
+    background-color: rgb(192, 216, 206); 
+}
+.p1{
+  color: rgb(13, 13, 14);
+  text-align: center;
+}
+.rs{
+  
+  float: right;
+    height: 82px;
+    width: 82px;
+}
+.nav{
+list-style: none;
+padding-left: 0;
+margin-left: 0;
+background-color: rgb(78, 15, 15);
+}
+.nav-right{
+float: right;
+}
+.nav a{
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 17px;
+}
+.nav a:bor{
+  background-color: #ddd;
+  color: rgb(54, 16, 16);
+}
+.nav a.let{
+  background-color: #f0ec0a;
+  color: black;
+}
